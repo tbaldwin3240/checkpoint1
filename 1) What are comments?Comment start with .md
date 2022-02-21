@@ -1,4 +1,4 @@
-1) What are comments?Comment sare lines arent't readyby the inerpreter
+1) What are comments?Comment are lines that not ready by the inerpreter
 
 
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
