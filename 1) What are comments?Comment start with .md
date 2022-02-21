@@ -4,15 +4,11 @@ abc
 
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
 
-Single line comments are those comments which are written without giving a line break or newline in python. A python comment is written by initializing the text of comment with a # and terminates when the end of line is encountered.
+#print(hello world) single line
+'''
+    print("hello world!")
 
-Example #This is a single line comment
-
-When writing multi line comments using # symbol, we can also start multi line comments after any python statement.
-
-
-#This is a multiline comment in python
-#and expands to more than one line
+'''
 
 3) If the name of a file is app.py what do we type in the command line to tell our computer to run it?
 
