@@ -1,4 +1,4 @@
-1) What are comments?Comment start with a # pythons will render the rest of the comment.
+1) What are comments?Comment sare lines arent't readyby the inerpreter
 
 
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
