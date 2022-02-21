@@ -12,6 +12,8 @@ abc
 
 3) If the name of a file is app.py what do we type in the command line to tell our computer to run it?
 
+python3 app.py
+
 
 4) Demonstrate how I can tell a Python program to display something in the command line.
 
