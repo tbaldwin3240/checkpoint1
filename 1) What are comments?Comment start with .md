@@ -17,64 +17,87 @@ When writing multi line comments using # symbol, we can also start multi line co
 
 
 4) Demonstrate how I can tell a Python program to display something in the command line.
-aldifowng
+print("Hello, World!")
 
 5) What can we use to save a value for later use in our code? Provide an example.
+Name friendly_greeting = "Hello, World"
 
 
 6) What can I do to prevent certain files and directories from being tracked by git?
 
+gitignore
+
 
 7) What can be used in order to repeat some block of code? Provide 2 examples.
-
+ you can loop the code
+ x=o
+ while (x,4):
+ x=0
+ for x in range (2,7)
 
 8) When saving a value for later use what type of operator do we use?
-
+python+
 
 9) What's the key difference between git revert and git reset?
+git revert is used to removed the commit from the remote reposittory
+git reset is used when we want to unstage a file and bring our change back to the work directory
 
 
 10) What's the key difference between Python lists and tuples?
+list is a collection which is ordered and changeable
+tuple is a colletion whic is ordered and unchangeable
 
 
 11) What can I do to know where I am within my file system?
+gitbranch
 
 
 12) Describe the anatomy of a Python dictionary and create one below.
+dictionary are used to store data values in key:value pairs
 
+thisdic+{
+    "brand": "Lexus"
+    "model": "LS500"
+    "year": "2021"
+}
+print(thisdic)
 
 13) What type of values can be in a Python dictionary?
+almost any type of value can be used as a distionary key in python
 
 
 14) What type of values can be in a Python list?
-
+tuple,set and dictionary
 
 15) What data type are True and False?
-
+1 and 0
 
 16) What language does your computer understand?
-
+machine language
 
 17) What do we need in order for your computer to make use of programming languages?
-
+coding syntax
 
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
-
+Index 1
 
 19) What does frontend / client side mean?
-
+location where processsor run
 
 20) What does backend / server side mean?
-
+portion of website you don't see
 
 21) What are 3 way to create a Python string?
+single quote '', double quote "" "", triple quotes """ """
 
 
 22) What are 2 types of number data types in Python? Provide an example.
-
+int and float
+x=20 #int
+y=132.6 float
 
 23) Are we able to add two strings together? How?
-
+yes with a '+'
 
 24) What commands would you use to create the following file structure? (write every command line by line):
     
@@ -90,7 +113,7 @@ aldifowng
 
 
 25) What is the path to profile_image.jpg?
-
+Desktop/projects/images/profile_imange.jpg
 
 26) What commands can I use to get from the clips directory to the images directory? (write every command line by line):
 
